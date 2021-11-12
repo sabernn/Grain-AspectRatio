@@ -1,0 +1,11 @@
+
+# images
+*.jpg
+*.tif
+*.tiff
+*.png
+
+# spreadsheet
+*.csv
+*.xls
+*.xlsx
